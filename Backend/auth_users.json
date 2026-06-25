@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Faizan Rahim",
+    "email": "faizan@gmail.com",
+    "pin": "12345",
+    "role": "Site Supervisor",
+    "type": "supervisor",
+    "location": "Gilgit, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 2,
+    "name": "Farhan Ali",
+    "email": "farhan@gmail.com",
+    "pin": "2468",
+    "role": "Field Supervisor",
+    "type": "supervisor",
+    "location": "Gilgit, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 3,
+    "name": "Eng. Amjad Hanif",
+    "email": "amjad@gmail.com",
+    "pin": "3456",
+    "role": "QA Supervisor",
+    "type": "supervisor",
+    "location": "Gilgit, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 4,
+    "name": "Gilgit Contractors",
+    "email": "contractor@gmail.com",
+    "pin": "9999",
+    "role": "Main Contractor",
+    "type": "contractor",
+    "location": "Gilgit, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 5,
+    "name": "Adeel Hussain",
+    "email": "engineer@gmail.com",
+    "pin": "4567",
+    "role": "Project Engineer",
+    "type": "engineer",
+    "location": "Gilgit, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 6,
+    "name": "Nadia Shah",
+    "email": "client@gmail.com",
+    "pin": "8888",
+    "role": "Client Representative",
+    "type": "client",
+    "location": "Islamabad, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  },
+  {
+    "id": 7,
+    "name": "Stakeholder Group",
+    "email": "stakeholder@gmail.com",
+    "pin": "7777",
+    "role": "Stakeholder",
+    "type": "stakeholder",
+    "location": "Karachi, PK",
+    "mobile": "",
+    "verified": true,
+    "otp": "",
+    "otp_expires_at": ""
+  }
+]
